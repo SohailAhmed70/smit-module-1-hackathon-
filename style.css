@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+#burgur{
+position: relative;
+left: 100px;
+}
+
+.main1{
+
+width: 100%;
+min-height: 450px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.title1{
+width: 350px;
+height: 400px;
+
+}
+.title2{
+    width: 750px;
+    min-height: 300px;
+
+    }
+    .titlehead{
+        margin-top: 50px;
+    }
+    .titlehead button{
+        border-radius: 30px;
+        padding: 14px 80px;
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+    .main3{
+        width: 100%;
+        min-height: 300px;
+      
+      margin-top: 50px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+
+    .mbl{
+        width: 400px;
+        height: 300px;
+    
+    }
+    .mbl img{
+        width: 300px;
+        height: 300px;
+    }
+    .mbltitle{
+width: 600px;
+height: 300px;
+
+
+    }
