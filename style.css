@@ -20,9 +20,14 @@ margin-top: 18px;
 }
 
 .title1{
-width: 350px;
+width: 340px;
 height: 400px;
 
+}
+.paren{
+
+   
+margin-left: 80px;
 }
 .title2{
     width: 750px;
@@ -31,6 +36,7 @@ height: 400px;
     }
     .titlehead{
         margin-top: 50px;
+        text-align: center;
     }
     .titlehead button{
         border-radius: 30px;
